@@ -1,2 +1,2 @@
 # my-flipkart-clone
-flipkart clone
+Flipkart clone
